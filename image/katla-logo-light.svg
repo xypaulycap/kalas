@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 56" fill="none">
+  <!-- Architectural Emblem: Tank Silo + Maritime Bow + Meridian -->
+  <g transform="translate(2, 4)">
+    <rect x="0" y="0" width="48" height="48" rx="4" fill="#24536D" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+    <!-- Storage Tank / Silo Silhouette -->
+    <path d="M10 16C10 12.5 16.268 10 24 10C31.732 10 38 12.5 38 16V34H10V16Z" fill="#10283F"/>
+    <!-- Precision Rib Lines -->
+    <path d="M10 21H38M10 27H38" stroke="#24536D" stroke-width="1.5"/>
+    <!-- Maritime Vessel Bow / Wave Cut -->
+    <path d="M6 34L24 26L42 34L38 40H10L6 34Z" fill="#159A91"/>
+    <!-- Safety Amber Beacon / K-Apex -->
+    <polygon points="24,6 29,13 19,13" fill="#E9A23B"/>
+    <rect x="22.75" y="13" width="2.5" height="22" fill="#FFFFFF"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="62" y="27" font-family="'Plus Jakarta Sans', 'Inter', system-ui, sans-serif" font-size="20" font-weight="800" letter-spacing="0.06em" fill="#FFFFFF">KATLASHIPPING</text>
+  <rect x="260" y="12" width="38" height="18" rx="2" fill="#E9A23B"/>
+  <text x="266" y="25" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="0.05em" fill="#10283F">B.V.</text>
+  <text x="62" y="43" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="500" letter-spacing="0.16em" fill="#159A91">PETROLEUM STORAGE &amp; MARITIME LOGISTICS</text>
+</svg>
